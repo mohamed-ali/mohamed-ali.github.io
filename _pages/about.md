@@ -13,7 +13,10 @@ comments: false
   <span>Experience</span>
 </h3>
 </div>
-TODO
+<ul class="list-group list-group-flush">
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+</ul>
 
 <div class="section-title">
 <h3>
@@ -21,7 +24,11 @@ TODO
 </h3>
 </div>
 
-TODO
+<ul class="list-group list-group-flush">
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+</ul>
+
 
 <div class="section-title">
 <h3>
@@ -29,7 +36,11 @@ TODO
 </h3>
 </div>
 
-TODO
+<ul class="list-group list-group-flush">
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+</ul>
+
 
 <div class="section-title">
 <h3>
@@ -37,7 +48,11 @@ TODO
 </h3>
 </div>
 
-TODO
+<ul class="list-group list-group-flush">
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+</ul>
+
 
 </div>
 
