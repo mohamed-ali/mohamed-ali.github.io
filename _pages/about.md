@@ -8,17 +8,35 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<h3>Experience</h3>
+<div class="section-title">
+<h3>
+  <span>Experience</span>
+</h3>
+</div>
+TODO
+
+<div class="section-title">
+<h3>
+  <span>Open Source Contributions</span>
+</h3>
+</div>
 
 TODO
 
-<h3>Open Source Contributions</h3>
+<div class="section-title">
+<h3>
+  <span>Education</span>
+</h3>
+</div>
 
 TODO
-<h3>Education</h3>
 
-TODO
-<h3>Continous learning</h3>
+<div class="section-title">
+<h3>
+  <span>Continous learning</span>
+</h3>
+</div>
+
 TODO
 
 </div>
