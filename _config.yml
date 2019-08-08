@@ -13,6 +13,13 @@ permalink: /:title/
 
 # Authors
 authors:
+  mohamed-ali:
+    name: Mohamed Ali JAMAOUI
+    display_name: Mohamed Ali
+    email: myblog@gmail.com
+    web: https://github.com/mohamed-ali
+    twitter: https://twitter.com/wowthemesnet
+    description: "A machine learning engineer, enthusiast about data science, machine learning, Deep learning, software engineering and mostly, making the world a better place :)"
   sal:
     name: Sal
     display_name: Sal
