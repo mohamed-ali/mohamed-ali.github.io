@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "SIGIR eCom'19 Digest "
+author: mohamed-ali
+categories: [ scientific-conference, machine-learning, deep-learning ]
+image: assets/images/12.jpg
+featured: true
+hidden: true
+---
+
+Last month, July 25 2019 to be precise, the third SIGIR Workshop On eCommerce took place in Paris, France. 
+Several quite intersting ideas and topics were discussed. Below I'll try to share links to resources shared 
+during the workshop as well as give and outline of the key ideas that were discussed during the event:
+
+|-----------------+----------------|
+| Resource        | Description    |
+|-----------------|---------------:|
+| Workshop Official website  | https://sigir-ecom.github.io/ |
+|-----------------+----------------|
+| Workshop proceedings          | http://ceur-ws.org/Vol-2410/ |
+|-----------------+----------------|
