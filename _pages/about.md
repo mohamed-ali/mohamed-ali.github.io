@@ -25,8 +25,7 @@ comments: false
 </div>
 
 <ul class="list-group list-group-flush">
-  <li class="list-group-item">Porta ac consectetur ac</li>
-  <li class="list-group-item">Vestibulum at eros</li>
+  <li class="list-group-item">AverageRegressor, scikit-learn. <a href="https://github.com/scikit-learn/scikit-learn/pull/10868">(PR)</a></li>
 </ul>
 
 
