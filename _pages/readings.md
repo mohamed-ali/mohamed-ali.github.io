@@ -15,6 +15,7 @@ comments: false
 </div>
 <ul class="list-group list-group-flush">
   <li class="list-group-item">Reinforcement learning: an introduction, second edition. Richard S. Sutton and Andrew G. Barto</li>
+  <li class="list-group-item">How to read a paper, S. Keshav (<a href="http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf">link</a>)</li>
 </ul>
 
 </div>
