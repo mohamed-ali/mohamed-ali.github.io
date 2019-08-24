@@ -11,6 +11,7 @@ comments: false
 <ul class="list-group list-group-flush">
   <li class="list-group-item">Reinforcement learning: an introduction, second edition. Richard S. Sutton and Andrew G. Barto (<a href="http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf">link</a>)</li>
   <li class="list-group-item">How to read a paper, S. Keshav (<a href="http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf">link</a>)</li>
+  <li class="list-group-item">Writing Technical Articles, Henning Schulzrinne (<a href="https://www.cs.columbia.edu/~hgs/etc/writing-style.html">link</a>)</li>
 </ul>
 
 </div>
