@@ -8,13 +8,8 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<div class="section-title">
-<h3>
-  <span>Reinforcement learning</span>
-</h3>
-</div>
 <ul class="list-group list-group-flush">
-  <li class="list-group-item">Reinforcement learning: an introduction, second edition. Richard S. Sutton and Andrew G. Barto</li>
+  <li class="list-group-item">Reinforcement learning: an introduction, second edition. Richard S. Sutton and Andrew G. Barto (<a href="http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf">link</a>)</li>
   <li class="list-group-item">How to read a paper, S. Keshav (<a href="http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf">link</a>)</li>
 </ul>
 
