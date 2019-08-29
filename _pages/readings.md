@@ -15,6 +15,7 @@ comments: false
   <li class="list-group-item">Common Bugs in Writing (<a href="https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html">link</a>)</li>
   <li class="list-group-item">Elements of Style, Strunk and White (<a href="https://www.bartleby.com/141/index.html">link1</a>), <a href="http://www.jlakes.org/ch/web/The-elements-of-style.pdf">link2</a>)</li>
   <li class="list-group-item">An Illustrated Book of Bad Arguments, Ali Almossawi (<a href="https://bookofbadarguments.com/">link</a>)</li>
+  <li class="list-group-item">Fundamentals of Data Visualization (<a href="https://serialmentor.com/dataviz/">link</a>)</li>
 </ul>
 
 </div>
