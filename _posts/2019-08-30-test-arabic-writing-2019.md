@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <div dir='rtl'>"مقالات بالعربية"</div>
+title:  "مقالات بالعربية"
 author: mohamed-ali
 image: assets/images/16.jpg
 categories: [ scientific-conference, machine-learning, deep-learning ]
