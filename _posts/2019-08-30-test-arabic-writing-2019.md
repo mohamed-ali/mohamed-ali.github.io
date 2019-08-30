@@ -5,6 +5,7 @@ author: mohamed-ali
 image: assets/images/16.jpg
 categories: [ scientific-conference, machine-learning, deep-learning ]
 featured: true
+dir: rtl
 hidden: true
 ---
 
