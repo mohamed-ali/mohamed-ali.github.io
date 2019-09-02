@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: ar-post
 title:  "مقالات بالعربية"
 author: mohamed-ali
 image: assets/images/16.jpg
@@ -10,6 +10,6 @@ hidden: true
 ---
 
 
-<p style="text-align:right">
+<p>
 هذا المقال هو محاولة إختبار قدرة المدونة على إخراج اللغة العربية بصفة صحيحة و متناسقة. يجب التأكد من صحّة إخراج العنوان, و سهولة تغيير إتجاه الكتابة 
 </p>
