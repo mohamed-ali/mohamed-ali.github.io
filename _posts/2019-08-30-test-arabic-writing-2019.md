@@ -13,9 +13,13 @@ hidden: true
 هذا المقال هو محاولة إختبار قدرة المدونة على إخراج اللغة العربية بصفة صحيحة و متناسقة. يجب التأكد من صحّة إخراج العنوان, و سهولة تغيير إتجاه الكتابة 
 
 
-#### Python
+مثال من لغة البرمجة python
+
+<div style="text-align:left">
 
 ```python
 # this is to test if code snippts render correctly in the template.
 print("Hello World")
 ```
+
+</div>
