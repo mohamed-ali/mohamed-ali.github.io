@@ -15,7 +15,7 @@ hidden: true
 
 مثال من لغة البرمجة python
 
-<div style="text-align:left">
+<div dir="ltr">
 
 ```python
 # this is to test if code snippts render correctly in the template.
