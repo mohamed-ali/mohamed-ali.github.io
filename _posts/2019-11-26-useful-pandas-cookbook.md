@@ -3,9 +3,8 @@ layout: post
 title:  "Pandas cookbook: Useful, reusable pandas code snippets"
 author: mohamed-ali
 image: assets/images/16.jpg
-categories: [ scientific-conference, machine-learning, deep-learning ]
+categories: [ code-snippets, python, pandas, cookbook ]
 featured: true
-hidden: true
 ---
 
 After a while working with Pandas, the following set of code snippets seems to be quite useful and reusable in various scenarios.
