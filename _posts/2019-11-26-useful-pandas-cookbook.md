@@ -24,7 +24,9 @@ df = pd.DataFrame({'original' : np.random.rand(5)})
 # 2  0.034539
 # 3  0.587919
 # 4  0.876895
-df[["new1", "new2"]] = df["original"].apply(lambda s: pd.Series({"new1": 2 * s, "new2": s + 1}))
+df[["new1", "new2"]] = df["original"].apply(
+    lambda s: pd.Series({"new1": 2 * s, "new2": s + 1})
+)
 # df.head()
 #    original      new1      new2
 # 0  0.185199  0.370399  1.185199
