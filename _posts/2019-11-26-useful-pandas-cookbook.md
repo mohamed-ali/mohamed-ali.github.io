@@ -8,9 +8,9 @@ featured: true
 ---
 
 After a while working with Pandas, the following set of code snippets seems to be quite useful and reusable in various scenarios.
-Therefore, I am going to catalog it here as quick reference (for myself and others). 
+Therefore, I am going to catalog it here as a quick reference for myself and others: 
 
-### Create multiple columns from an existent column in a pandas dataframe
+#### Create multiple columns from an existent column in a pandas dataframe
 
 ```python
 import pandas as pd
