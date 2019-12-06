@@ -19,12 +19,12 @@
             <div class="col-12 col-md-12 col-lg-7">
                 <div class="h-100 card-group">
                     <div class="card">
+                      {% if post.lang == "ar" %}
+                        <div class="card-body" style="text-align: right">
+                      {% else %}
                         <div class="card-body">
-                          {% if post.lang == "ar" %}
-                            <h2 class="card-title" style="text-align: right">
-                          {% else %}
+                      {% endif %}
                             <h2 class="card-title">
-                          {% endif %}
                                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                                 {% if post.rating %}
                                 <div class="mb-2 mt-2 font-weight-normal">
