@@ -2,13 +2,13 @@
 layout: post
 title:  "Pandas cookbook: Useful, reusable pandas code snippets"
 author: mohamed-ali
-image: assets/images/16.jpg
+image: assets/images/pandas_logo.png
 categories: [ code-snippets, python, pandas, cookbook ]
 featured: true
 ---
 
 After a while working with Pandas, the following set of code snippets seems to be quite useful and reusable in various scenarios.
-Therefore, I am going to catalog it here as a quick reference for myself and others: 
+Therefore, I am going to catalog it here as a quick reference for myself and others:
 
 #### Create multiple columns from an existent column in a pandas dataframe
 
