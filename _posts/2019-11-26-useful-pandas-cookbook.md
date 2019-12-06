@@ -3,6 +3,7 @@ layout: post
 title:  "Pandas cookbook: Useful, reusable pandas code snippets"
 author: mohamed-ali
 image: assets/images/pandas_logo.png
+image_thumbnail: assets/images/pandas_logo_thumbnail.png
 categories: [ code-snippets, python, pandas, cookbook ]
 featured: true
 ---
