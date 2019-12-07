@@ -16,7 +16,7 @@ Always use self for the first argument to instance methods.
 Always use cls for the first argument to class methods.
 
 Relevant SO discussion: <a href="https://stackoverflow.com/questions/4613000/what-is-the-cls-variable-used-for-in-python-classes">What is the 'cls' variable used for in Python classes?</a>
-
+<hr>
 #### Reversing a list or a string in Python:
 
 Python provides several built-in elegant ways to reverse lists or strings (lists of characters):
