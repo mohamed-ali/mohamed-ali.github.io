@@ -66,4 +66,4 @@ $ python -m timeit 'reversed(range(1000))'
 $ python -m timeit 'range(1000)[::-1]'
 100000 loops, best of 3: 9.34 usec per loop
 ```
-We can see that there is a small variation between benchmarks, but in all experiments `reversed` seem to be faster.
+We notice a small variation between benchmarks, but in all experiments `reversed` seem to be faster.
