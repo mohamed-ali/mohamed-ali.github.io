@@ -11,7 +11,7 @@ published: true
 ---
 
 Given a dataset $$ \mathcal{D} = \{ x_i \in \mathbb{R} \mid i \in 1..n \} $$
-The mean $$ \bar{x} $$ of the dataset $$ \mathcal{D} $$ is defined as:
+, the mean $$ \bar{x} $$ of $$ \mathcal{D} $$ is defined as:
  
  $$ \bar{x}_{n} = \frac{1}{n} \sum_{i=1}^{n}{x_i} $$
  
