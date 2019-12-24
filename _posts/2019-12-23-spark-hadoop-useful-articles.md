@@ -14,3 +14,9 @@ A performance comparison of different file formats and storage engines in hadoop
 TODO: put a summary of the things to keep in mind and then invite readers to check the full article. 
 
 https://db-blog.web.cern.ch/blog/zbigniew-baranowski/2017-01-performance-comparison-different-file-formats-and-storage-engines
+
+<hr\>
+
+TODO: benchamrk of hadoop file formats:
+
+https://www.slideshare.net/HadoopSummit/file-format-benchmark-avro-json-orc-and-parquet 
