@@ -9,6 +9,7 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <ul class="list-group list-group-flush">
+  <li class="list-group-item">The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Second Edition. Trevor Hastie, Robert Tibshirani, Jerome Friedman (<a href="https://hastie.su.domains/ElemStatLearn/">link</a>)</li>
   <li class="list-group-item">Causal Inference: What If (the book). Miguel A. Hernán, James M. Robins (<a href="https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/">link</a>)</li>
   <li class="list-group-item">Reinforcement learning: an introduction, second edition. Richard S. Sutton and Andrew G. Barto (<a href="http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf">link</a>)</li>
   <li class="list-group-item">How to read a paper, S. Keshav (<a href="http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf">link</a>)</li>
