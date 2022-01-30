@@ -1,6 +1,6 @@
 # Site
-name: "Mohamed Ali JAMAOUI"
-title: "Mohamed Ali JAMAOUI"
+name: "محمد علي الجمعاوي"
+title: "محمد علي الجمعاوي"
 description: "Machine Learning, Deep Learning, Data Science & More"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -14,13 +14,12 @@ permalink: /:title/
 # Authors
 authors:
   mohamed-ali:
-    name: Mohamed Ali JAMAOUI
-    display_name: Mohamed Ali
+    name: محمد علي الجمعاوي
+    display_name: محمد علي الجمعاوي
     avatar: 'assets/images/dali.png'
     email: myblog@gmail.com
     web: https://github.com/mohamed-ali
-    twitter: https://twitter.com/JamaouiMohamedA
-    description: "A machine learning engineer, enthusiast about data science, machine learning, Deep learning, software engineering and mostly, making the world a better place :)"
+    description: "ML, software engineering, and solution architecture"
 
 # Plugins
 plugins:
