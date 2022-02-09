@@ -1,0 +1,20 @@
+---
+layout: ar-post
+lang: ar
+title:  "وصفات لاستعمال Git"
+author: mohamed-ali
+image: assets/images/16.jpg
+categories: [ البرمجة , العربية , git ]
+featured: true
+hidden: true
+published: true
+
+---
+
+## كيف نبسط قائمة الملفات الموجودة في مستودع git؟
+
+يُمكن استعمال svn كالتّالي
+
+```
+!svn ls https://github.com/aws/amazon-sagemaker-examples.git/trunk
+```
