@@ -1,28 +1,29 @@
 ---
 layout: ar-post
 lang: ar
-title:  "الشبكات السببية البايزية"
+title:  "استنباط العلاقات السببية"
 author: mohamed-ali
 image: assets/images/16.jpg
-categories: [ التعلّم الآلي , العربية , تحليل السببية , المُحوّل ]
-featured: true
-hidden: false
-published: false
+categories: [ التعلّم الآلي , العربية , تحليل السببية ]
+featured: false
+hidden: true
+published: true
 
 ---
 
-<div dir="rtl">
+## الموضوع
+ندرس هنا كيفية استنباط العلاقة السببية بين مجموعة من المُدخلات و المُخرجات.
 
-المصادر: 
+## الفائدة المرجوة
+فهم العلاقة السببية بين مجموعة من الأحداث، أو المُتغيّرات و مجموعة من النتائج أو المُخرجات يُساعم في دعم إتخاذ القرارت الأكثر فاعلية و الأقرب إلى تحقيق الأهداف في مجالات مُتعددة منها التخطيط الاستراتيجي، العلوم السياسية، الإقتصاد، الطبّ،.. إلخ.
+## الوسائل
+* الشبكات السببية البايزية: هي خوارزمية تُساعد في تعلّم العلاقات السببية من البيانات أو من مُدخلات الخبراء، أو منهما معًا. و تتميّز بشفافيتها.
+* خوارزمية NOTEARS: هي خوارزمية تُساعد في تعلّم احتمالات وجود علاقات سببية بين العُقد المُكوّنة  للشبكات السببية البايزية. نُشرت في الورقة البحثية [2] سنة 2019.
+* تقنية الاستدلال السببي عبر تقنية قياس انحراف النواة. نُشرت في الورقة البحثية [3] سنة 2018. يُمكن استعمالُها لاستخراج الاتجاه السببي.
+* مكتبة causalnex ، بلغة بايثون. وصفها حسب موقعها [4]: "مكتبة بايثون تساعد علماء البيانات على استنتاج السببية بدلاً من ملاحظة الارتباط." 
 
-
-[الشبكات السببية البايزية: أداة مرنة لبلوغ تعلُّم آلي أكثر عدلاً](https://deepmind.com/blog/article/Causal_Bayesian_Networks)
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-</div>
+## المصادر
+1. [Causal Inference: Making the Right Intervention](https://www.youtube.com/watch?v=O5-vbOWQhLo)
+2. [DAGs with NO TEARS: Continuous Optimization for Structure Learning](https://arxiv.org/abs/1803.01422)
+3. [Causal Inference via Kernel Deviance Measures](https://arxiv.org/abs/1804.04622)
+4. [Causalnex github](https://github.com/quantumblacklabs/causalnex)
