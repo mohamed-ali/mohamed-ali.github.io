@@ -14,6 +14,8 @@ published: true
 
 #### قم بإنشاء أعمدة بيانات متعددة من عمود بيانات موجود في إطار بيانات بانداس
 
+<div dir="ltr">
+
 ```python
 import pandas as pd
 import numpy as np
@@ -37,7 +39,12 @@ df[["new1", "new2"]] = df["original"].apply(
 # 3  0.587919  1.175839  1.587919
 # 4  0.876895  1.753790  1.876895
 ```
+
+</div>
+
 #### إفحص مدى استعمال إطار بيانات باندس للذاكرة
+
+<div dir="ltr">
 
 ```python
 import pandas as pd
@@ -68,3 +75,5 @@ df.info(memory_usage="deep")
 # dtypes: float64(6)
 # memory usage: 45.8 MB
 ```
+    
+</div>
