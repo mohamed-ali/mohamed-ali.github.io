@@ -1,17 +1,18 @@
 ---
-layout: post
-title:  "Pandas cookbook: Useful, reusable pandas code snippets"
+layout: ar-post
+title:  "وصفات بانداس: مقتطفات مفيدة وقابلة لإعادة الاستخدام"
 author: mohamed-ali
 image: assets/images/pandas_logo.png
 image_thumbnail: assets/images/pandas_logo_thumbnail.png
-categories: [ code-snippets, python, pandas, cookbook ]
+categories: [ code-snippets, python, pandas, وصفات ]
 featured: true
+published: true
+
 ---
 
-After a while working with Pandas, the following set of code snippets seems to be quite useful and reusable in various scenarios.
-Therefore, I am going to catalog it here as a quick reference for myself and others:
+هذا مرجع لبعض وصفات الترميز كثيرة الإستعمال باستخدام مكتبة بانداس.
 
-#### Create multiple columns from an existent column in a pandas dataframe
+#### قم بإنشاء أعمدة بيانات متعددة من عمود بيانات موجود في إطار بيانات بانداس
 
 ```python
 import pandas as pd
@@ -36,7 +37,7 @@ df[["new1", "new2"]] = df["original"].apply(
 # 3  0.587919  1.175839  1.587919
 # 4  0.876895  1.753790  1.876895
 ```
-#### Inspect pandas DataFrames memory usage
+#### إفحص مدى استعمال إطار بيانات باندس للذاكرة
 
 ```python
 import pandas as pd
