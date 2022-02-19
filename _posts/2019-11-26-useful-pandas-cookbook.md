@@ -47,10 +47,8 @@ df[["new1", "new2"]] = df["original"].apply(
 
 
 
-<div dir="ltr">
-<code class="language-python highlighter-rouge">
-<pre>
 
+```python
 import pandas as pd
 import numpy as np
 df = pd.DataFrame(np.random.randn(1000, 4),  columns=list('ABCD'))
@@ -78,8 +76,5 @@ df.info(memory_usage="deep")
 # F    1000000 non-null float64
 # dtypes: float64(6)
 # memory usage: 45.8 MB
-
-</pre>
-</code>
-<div>
+```
 
