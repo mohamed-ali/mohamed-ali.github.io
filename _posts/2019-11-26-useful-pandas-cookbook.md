@@ -14,7 +14,6 @@ published: true
 
 #### قم بإنشاء أعمدة بيانات متعددة من عمود بيانات موجود في إطار بيانات بانداس
 
-<div dir="ltr">
 
 
 ```python
@@ -42,11 +41,8 @@ df[["new1", "new2"]] = df["original"].apply(
 ```
 
 
-</div>
-
 #### إفحص مدى استعمال إطار بيانات باندس للذاكرة
 
-<div dir="ltr">
 
 
 ```python
@@ -79,5 +75,3 @@ df.info(memory_usage="deep")
 # memory usage: 45.8 MB
 ```
 
-
-</div>
