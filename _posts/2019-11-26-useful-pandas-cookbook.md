@@ -16,10 +16,7 @@ published: true
 
 
 
-<div dir="ltr">
-<code class="language-python highlighter-rouge">
-<pre>
-
+```python
 import pandas as pd
 import numpy as np
 # generate a random dataframe with a column "original"
@@ -41,10 +38,8 @@ df[["new1", "new2"]] = df["original"].apply(
 # 2  0.034539  0.069078  1.034539
 # 3  0.587919  1.175839  1.587919
 # 4  0.876895  1.753790  1.876895
+```
 
-</pre>
-</code>
-</div>
 
 
 
