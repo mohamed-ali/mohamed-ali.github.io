@@ -39,7 +39,7 @@ pre {
 }
 
 code {
-    float: left;
+    direction: ltr;
 }
 
 .mediumnavigation {
