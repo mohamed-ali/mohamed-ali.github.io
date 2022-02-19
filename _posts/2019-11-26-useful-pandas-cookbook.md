@@ -16,7 +16,8 @@ published: true
 
 
 
-<code class="language-python highlighter-rouge" dir="ltr">
+<div dir="ltr">
+<code class="language-python highlighter-rouge">
 <pre>
 
 import pandas as pd
@@ -43,6 +44,7 @@ df[["new1", "new2"]] = df["original"].apply(
 
 </pre>
 </code>
+</div>
 
 
 
@@ -50,7 +52,8 @@ df[["new1", "new2"]] = df["original"].apply(
 
 
 
-<code class="language-python highlighter-rouge" dir="ltr">
+<div dir="ltr">
+<code class="language-python highlighter-rouge">
 <pre>
 
 import pandas as pd
@@ -83,4 +86,5 @@ df.info(memory_usage="deep")
 
 </pre>
 </code>
+<div>
 
