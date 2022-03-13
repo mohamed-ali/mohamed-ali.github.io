@@ -78,3 +78,38 @@ df.info(memory_usage="deep")
 # memory usage: 45.8 MB
 ```
 
+
+#### تحويل إطار بيانات بانداس لتنسيق البيانات tfrecords
+
+تنسيق tfrecords أو Tensorflow records، أي سجلّات تنسورفلو، هو تنسيق بيانات كثير الإستعمال مع مكتبة تنسورفلو والتي تُستخدم بكثرة في بناء وتدريب أنظمة التعلّم الآلي. بعد تثبيت مكتبة pandas_tfrecords، يُمكنك استخدامُها لتحويل إطارات بيانات بانداس إلى تنسيق سجلّات تنسورفلور بالطريقة التّالية:   
+
+```python
+import random
+
+import pandas as pd
+from pandas_tfrecords import pd2tf, tf2pd
+
+# تحديد عدد الأمثلة.
+n_samples = 1024 * 100
+# بناء الأمثلة
+
+data = []
+for j in range(n_samples):
+    feature_1 = random.randint(1, 100)
+    feature_2 = random.randint(1, 1000)
+    target = 0.3 * feature_1 + 0.6 * feature_2
+    data.append({
+        "feature_1": feature_1,
+        "feature_2": feature_2,
+        "target": target
+        })
+
+# كتابة إطار بيانات باندس بتنسيق tfrecords
+pd2tf(
+    # إنشاء إطار بيانات بانداس
+    pd.DataFrame(data),
+    os.path.join("data_chunks/tfrecords"),
+    max_mb=1,
+    compression_type=None
+)
+```
