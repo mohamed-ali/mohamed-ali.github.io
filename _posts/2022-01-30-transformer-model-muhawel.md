@@ -38,16 +38,16 @@ published: true
 ### معجم الألفاظ التقنية والمُرادفات الإنجليزية
 
 - المُحوّل: transformer
-– الترميز: encoding
+- الترميز: encoding
 - فكّ الترميز: decoder
 - المُرمِّز: encoder
 - فاكُّ الترميز: decoder
 - دالّة الحدّ الأقصى الليّن: softmax
-– طبقة تحويل خطّي: linear transformation layer
-– الإنتباه: attention
-– الإنتباه مُتعدد الرؤوس: multi-head attention
+-  طبقة تحويل خطّي: linear transformation layer
+-   الإنتباه: attention
+-   الإنتباه مُتعدد الرؤوس: multi-head attention
 
-### المصادر:
+### المصادر
 	
 1. [الإنتباه هو كُلُّ ما تحتاجه](https://arxiv.org/abs/1706.03762)
 2. [التعلُّم من التسلسُل إلى التسلسُل باستعمال الشبكات العصبية](https://arxiv.org/abs/1409.3215)
