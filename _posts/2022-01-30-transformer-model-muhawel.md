@@ -3,7 +3,6 @@ layout: ar-post
 lang: ar
 title:  "مُلخص خوارزميّة المُحوِّل"
 author: mohamed-ali
-image: assets/images/16.jpg
 categories: [ التعلّم الآلي , العربية , التعلّم العميق , المُحوّل ]
 featured: true
 hidden: false
