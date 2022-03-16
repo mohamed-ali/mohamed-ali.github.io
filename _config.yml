@@ -1,7 +1,7 @@
 # Site
 name: "محمد علي الجمعاوي"
 title: "محمد علي الجمعاوي"
-description: "Machine Learning, Deep Learning, Data Science & More"
+description: "مهتم بالذكاء الإصطناعي، هندسة البرمجيات وتصميم الحلول الرقمية"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -19,7 +19,7 @@ authors:
     avatar: 'assets/images/dali.png'
     email: myblog@gmail.com
     web: https://github.com/mohamed-ali
-    description: "ML, software engineering, and solution architecture"
+    description: "مهتم بالذكاء الإصطناعي، هندسة البرمجيات وتصميم الحلول الرقمية"
 
 # Plugins
 plugins:
