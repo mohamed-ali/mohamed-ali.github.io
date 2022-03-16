@@ -3,7 +3,7 @@ layout: ar-post
 lang: ar
 title:  "مُلخص خوارزميّة المُحوِّل"
 author: mohamed-ali
-image: assets/images/tramsformer-ar-detailed.png
+image_thumbnail: assets/images/tramsformer-ar-detailed.png
 categories: [ التعلّم الآلي , العربية , التعلّم العميق , المُحوّل ]
 featured: true
 hidden: false
