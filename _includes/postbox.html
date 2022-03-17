@@ -12,6 +12,10 @@
                     {% else %}
                         <img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
                     {% endif %}
+                
+                {% elsif post.image_thumbnail %}
+
+                    <img class="img-fluid" src="{% if post.image_thumbnail contains "://" %}{{ post.image_thumbnail }}{% else %}{{ site.baseurl }}/{{ post.image_thumbnail }}{% endif %}" alt="{{ post.title }}">
 
                 {% endif %}
             </a>
