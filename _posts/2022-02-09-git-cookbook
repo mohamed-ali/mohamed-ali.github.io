@@ -6,7 +6,7 @@ author: mohamed-ali
 image: assets/images/16.jpg
 categories: [ البرمجة , العربية , git ]
 featured: true
-hidden: true
+hidden: false
 published: true
 
 ---
