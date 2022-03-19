@@ -45,9 +45,12 @@ published: true
 - المُرمِّز: encoder
 - فاكُّ الترميز: decoder
 - دالّة الحدّ الأقصى الليّن: softmax
--  طبقة تحويل خطّي: linear transformation layer
--   الإنتباه: attention
--   الإنتباه مُتعدد الرؤوس: multi-head attention
+- طبقة تحويل خطّي: linear transformation layer
+- الإنتباه: attention
+- الإنتباه مُتعدد الرؤوس: multi-head attention
+- التضمين: embedding
+- الترميز الموضعي: positional encoding
+- التسوية: normalisation
 
 ### المصادر
 	
