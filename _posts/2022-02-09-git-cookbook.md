@@ -21,6 +21,18 @@ published: true
 !svn ls https://github.com/aws/amazon-sagemaker-examples.git/trunk
 ```
 
+## كيف تنسُخ ملف أو مُجلّد من مستودع git؟
+
+في العموم يُمكن استخدام svn بالشكل التّالي لتنزيل جزء مُعيّن من مستودع git  
+```
+!svn export <git repo>/trunk/<folder name>
+```
+مثال تطبيقي لتنزيل المُجلّد "training" من المشروع  amazon-sagemaker-examples:
+
+```
+!svn export https://github.com/aws/amazon-sagemaker-examples.git/trunk/training
+```
+ستجد بعد تنفيذ هذا الأمر أن المُجلّد قد نُسخ إلى حاسبوك.
 
 ## كيف تُزامن بين تفرُّع (fork) خاص بك و مستودع أصلي في git ؟
 
