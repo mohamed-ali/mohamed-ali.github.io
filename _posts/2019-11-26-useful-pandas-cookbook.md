@@ -104,7 +104,7 @@ for j in range(n_samples):
         "target": target
         })
 
-# كتابة إطار بيانات باندس بتنسيق tfrecords
+# tfrecords كتابة إطار بيانات باندس بتنسيق 
 pd2tf(
     # إنشاء إطار بيانات بانداس
     pd.DataFrame(data),
@@ -112,4 +112,21 @@ pd2tf(
     max_mb=1,
     compression_type=None
 )
+```
+
+#### كيف تقرأ ملفات بتنسيق csv باستعمال بانداس مُباشرة من خدمة التخزين أمازون S3
+
+مكتبة بانداس، لا تحتوي على خاصيّة تُمكِّنُ من قراءة ملفات الcsv المُجزّءة مُباشرة. إلاّ أنّه من المُمكن استخدم مكتبة داسك (dask) والتي تُمكِّنُ من قراءة الملفات المُجزءة من أمازون S3. ثُمّ بعد الانتهاء من القراءة، يُمكن تحويل إطار بيانات داسك إلى إطار بيانات بانداس. 
+
+```python
+import dask.dataframe as dd
+
+s3_sample_data_path = "s3://path of data in s3"
+df = dd.read_csv(f"{s3_sample_data_path}/*")
+print(type(df))
+# dask.dataframe.core.DataFrame البيانات في إطار
+pd_df = df.compute()
+print(type(pd_df))
+# pandas.core.frame.DataFrame البيانات في إطار
+
 ```
