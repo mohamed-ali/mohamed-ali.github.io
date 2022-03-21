@@ -53,6 +53,7 @@ published: true
 - التضمين: embedding
 - الترميز الموضعي: positional encoding
 - التسوية: normalisation
+- الإنتباه المُعتمد على الجداء السُلَّمِي المُحجَّم: Scaled Dot-Product Attention
 
 ### المصادر
 	
