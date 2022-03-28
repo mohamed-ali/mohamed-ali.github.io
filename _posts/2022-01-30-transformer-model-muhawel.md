@@ -48,7 +48,7 @@ published: true
 
 <img class="img-fluid" src="/assets/images/attention-mechanism-details.png" alt="نظرة تفصيلية في الانتباه مُتعدّد الرؤوس">
 
-### معجم الألفاظ التقنية والمُرادفات الإنجليزية
+### فهرس الألفاظ التقنية ومُرادفاتُها الإنجليزية
 
 - المُحوّل: transformer
 - الترميز: encoding
