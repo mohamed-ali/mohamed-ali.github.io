@@ -3,6 +3,7 @@ layout: ar-post
 lang: ar
 title:  "وصفات لينُكس"
 author: mohamed-ali
+image: assets/images/linux_logo.png
 categories: [ البرمجة , العربية , لينُكس , Linux ]
 featured: true
 hidden: false
