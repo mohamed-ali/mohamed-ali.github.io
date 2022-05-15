@@ -101,6 +101,8 @@ $$ x_m, ...,x_1 $$
 - التسوية: normalisation
 - الإنتباه المُعتمد على الجداء السُلَّمِي المُحجَّم: Scaled Dot-Product Attention
 - وصلة البقية: Residual connection
+- خليّة عصبيّة تكراريّة: Recurrent neural cell
+- نواة ترشيح: Convolution Kernel
 
 ### المصادر
 	
