@@ -108,6 +108,7 @@ $$
 - التسوية: normalisation
 - الإنتباه المُعتمد على الجداء السُلَّمِي المُحجَّم: Scaled Dot-Product Attention
 - وصلة البقية: Residual connection
+- شبكة عصبيّة تكراريّة: Recurrent neural network
 - خليّة عصبيّة تكراريّة: Recurrent neural cell
 - نواة ترشيح: Convolution Kernel
 
