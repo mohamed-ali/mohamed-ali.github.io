@@ -110,6 +110,7 @@ $$
 - وصلة البقية: Residual connection
 - شبكة عصبيّة تكراريّة: Recurrent neural network
 - خليّة عصبيّة تكراريّة: Recurrent neural cell
+- شبكة عصبيّة ترشيحيّة: Convolution Neural Network
 - نواة ترشيح: Convolution Kernel
 
 ### المصادر
