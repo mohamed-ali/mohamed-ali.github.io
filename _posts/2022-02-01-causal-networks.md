@@ -27,3 +27,5 @@ published: true
 2. [DAGs with NO TEARS: Continuous Optimization for Structure Learning](https://arxiv.org/abs/1803.01422)
 3. [Causal Inference via Kernel Deviance Measures](https://arxiv.org/abs/1804.04622)
 4. [Causalnex github](https://github.com/quantumblacklabs/causalnex)
+5. [Causal Reasoning in ML with the help of CausalNex](https://www.youtube.com/watch?v=tOZ_3uSGfGw)
+
