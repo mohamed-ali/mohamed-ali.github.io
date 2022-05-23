@@ -1,4 +1,3 @@
-
 ---
 layout: ar-post
 lang: ar
