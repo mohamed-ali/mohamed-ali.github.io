@@ -15,4 +15,4 @@ published: true
 ماهي نقاط ضعف الذكاء الاصطناعي الحالي، وماهي الأفكار المُقترحة لبلوغ ذكاء اصطناعي أفضل، قادر على تعميم ما يتعلّمه إلى عدّة مهام.
 
 ## المصادر
-1. [Introducing Pathways: A next-generation AI architecture]([https://www.youtube.com/watch?v=O5-vbOWQhLo](https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/)
+1. [Introducing Pathways: A next-generation AI architecture](https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/)
