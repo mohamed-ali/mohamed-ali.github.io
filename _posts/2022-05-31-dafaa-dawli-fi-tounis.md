@@ -14,3 +14,6 @@ published: true
 
 <img class="img-fluid" src="/assets/images/الدفع الالكتروني في تونس.svg" alt="رسم استبياني للوسائل المُتاحة للمعاملات الماليّة في تونس">
 
+## أمثلة عن البطاقات البنكيّة الدوليّة المُتاحة من البنوك التونسية
+
+* [بطاقة فيزا كلاسيك الدولية من الشركة التونسيّة للبنك](https://www.stb.com.tn/en/produits/entreprises/carte-visa-classic-internationale/)
