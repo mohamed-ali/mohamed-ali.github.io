@@ -16,4 +16,5 @@ published: true
 
 ## أمثلة عن البطاقات البنكيّة الدوليّة المُتاحة من البنوك التونسية
 
-* [بطاقة فيزا كلاسيك الدولية من الشركة التونسيّة للبنك](https://www.stb.com.tn/en/produits/entreprises/carte-visa-classic-internationale/)
+* الشركة التونسيّة للبنك:
+    * [بطاقة فيزا كلاسيك الدولية](https://www.stb.com.tn/en/produits/entreprises/carte-visa-classic-internationale/)
