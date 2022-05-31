@@ -26,3 +26,5 @@ published: true
     * [البطاقة التكنولوجيّة الدوليّة](https://www.bt.com.tn/carte-technologique-international-particuliers) 
  * مصرف الزيتونة:
    * [البطاقة التكنولوجيّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-technologique) 
+   * [البطاقة الذهبيّة - النسخة الدوليّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-gold) 
+   * [البطاقة البلاتينيّة - النسخة الدوليّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-platinum) 
