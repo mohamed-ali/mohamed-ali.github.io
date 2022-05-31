@@ -20,3 +20,7 @@ published: true
     * [بطاقة فيزا كلاسيك الدولية](https://www.stb.com.tn/en/produits/entreprises/carte-visa-classic-internationale/)
     * [بطاقة ماستركارد الذهبية الدولية](https://www.stb.com.tn/en/produits/entreprises/carte-mastercard-gold-internationale/)
     * [البطاقة التكنولوجيّة الدوليّة](https://www.stb.com.tn/en/produits/entreprises/international-technology-stb-card/)
+ * البنك التونسي:
+    * [البطاقة الذهبية الدولية](https://www.bt.com.tn/carte-gold-international-particuliers)
+    * [بطاقة فيزا بلاتينيوم الدولية](https://www.bt.com.tn/carte-visa-platinum-internationale-particuliers) 
+    * [البطاقة التكنولوجيّة الدوليّة](https://www.bt.com.tn/carte-technologique-international-particuliers) 
