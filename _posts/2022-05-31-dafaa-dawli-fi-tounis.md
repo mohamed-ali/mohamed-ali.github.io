@@ -24,3 +24,5 @@ published: true
     * [البطاقة الذهبية الدولية](https://www.bt.com.tn/carte-gold-international-particuliers)
     * [بطاقة فيزا بلاتينيوم الدولية](https://www.bt.com.tn/carte-visa-platinum-internationale-particuliers) 
     * [البطاقة التكنولوجيّة الدوليّة](https://www.bt.com.tn/carte-technologique-international-particuliers) 
+ * مصرف الزيتونة:
+   * [البطاقة التكنولوجيّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-technologique) 
