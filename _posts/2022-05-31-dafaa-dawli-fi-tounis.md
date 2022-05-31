@@ -18,3 +18,4 @@ published: true
 
 * الشركة التونسيّة للبنك:
     * [بطاقة فيزا كلاسيك الدولية](https://www.stb.com.tn/en/produits/entreprises/carte-visa-classic-internationale/)
+    * [بطاقة ماستركارد الذهبية الدولية](https://www.stb.com.tn/en/produits/entreprises/carte-mastercard-gold-internationale/)
