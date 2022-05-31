@@ -3,7 +3,6 @@ layout: ar-post
 lang: ar
 title:  "الوسائل المُتاحة للمعاملات الماليّة الدولية في تونس"
 author: mohamed-ali
-image: assets/images/16.jpg
 categories: [ الدفع الدولي , تونس , التجارة الاكترونية، الأعمال الحُرّة ]
 featured: false
 hidden: false
