@@ -29,3 +29,7 @@ published: true
    * [البطاقة التكنولوجيّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-technologique) 
    * [البطاقة الذهبيّة - النسخة الدوليّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-gold) 
    * [البطاقة البلاتينيّة - النسخة الدوليّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-platinum) 
+
+## المصادر
+
+* الصورة في رأس المقال من موقع [unsplash](https://unsplash.com/photos/em37kS8WJJQ) والشكر موصول لصاحبها.
