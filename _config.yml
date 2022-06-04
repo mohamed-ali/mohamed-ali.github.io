@@ -16,7 +16,7 @@ authors:
   mohamed-ali:
     name: محمد علي الجمعاوي
     display_name: محمد علي الجمعاوي
-    avatar: 'assets/images/dali.png'
+    # avatar: 'assets/images/dali.png'
     email: myblog@gmail.com
     web: https://github.com/mohamed-ali
     description: "مهتم بالذكاء الإصطناعي، هندسة البرمجيات وتصميم الحلول الرقمية"
