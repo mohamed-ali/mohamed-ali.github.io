@@ -3,7 +3,7 @@ layout: ar-post
 lang: ar
 title:  "وصفات لينُكس"
 author: mohamed-ali
-image: assets/images/linux_logo.png
+image: assets/images/linux-cmd.jpg
 categories: [ البرمجة , العربية , لينُكس , Linux ]
 featured: true
 hidden: false
@@ -39,3 +39,8 @@ echo "مرحبا" > test-pipe
 سنرى مُباشرة أن الرسالة "مرحبا" تظهر في الطرفية أين نقوم بالقراءة.
 
 من خاصية الأنابيب المُسمات أنّها تضع البيانات في الذاكرة الحيّة، لذا فعمليّة القراءة والكتابة سريعة بالمقارنة مع الكتابة على القرص. كذلك، تُمحى البيانات مباشرة بعد عمليّة القراءة.
+
+## المصادر:
+
+* الصورة في رأس المقال من تصوير <a href="https://unsplash.com/@anagani_saikiran?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sai Kiran Anagani</a> على موقع <a href="https://unsplash.com/s/photos/linux?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
