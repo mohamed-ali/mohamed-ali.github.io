@@ -903,3 +903,10 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
