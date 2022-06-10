@@ -11,7 +11,7 @@ published: true
 
 ---
 
-<div class="callout callout-info center" style="width: 80%;">
+<div markdown="1" class="callout callout-info center" style="width: 80%;">
 
 
 * تمّ تحيينُ هذا المقال ليعتمد ترجمة الألفاظ التقنية كما وردت في معجم [البيانات والذّكاء الاصطناعي](https://sdaia.gov.sa/files/Data_and_AI_Glossary.pdf) لتبسيط سُبُل الفهم للقارئ.
