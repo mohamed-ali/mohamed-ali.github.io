@@ -11,7 +11,7 @@ published: true
 
 ---
 
-<div class="callout callout-warning" style="width: 80%;">
+<div class="callout callout-warning center" style="width: 80%;">
   هذا المقال قيد التأليف.
 </div>
 
