@@ -41,7 +41,14 @@ published: true
  * مصرف الزيتونة:
    * [البطاقة التكنولوجيّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-technologique) 
    * [البطاقة الذهبيّة - النسخة الدوليّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-gold) 
-   * [البطاقة البلاتينيّة - النسخة الدوليّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-platinum) 
+   * [البطاقة البلاتينيّة - النسخة الدوليّة](https://www.banquezitouna.com/ar/particuliers/gerer-mon-quotidien/mes-cartes/carte-platinum)
+ * بنك تونس العربي الدولي:
+   * [البطاقة التكنولوجيّة](https://www.biat.tn/biat/Fr/carte-technologique_63_356) 
+   * [بطاقة فيزا أو ماستركارد - النسخة الدوليّة](https://www.biat.tn/biat/Fr/carte-technologique_63_356) 
+   * [بطاقة فيزا الرائدة - النسخة الدوليّة](https://www.biat.tn/biat/Fr/carte-visa-premier_63_32)
+   * [بطاقة ماستركارد البلاتينيّة - النسخة الدوليّة](https://www.biat.tn/biat/Fr/carte-mastercard-platinum_63_33)
+   * [بطاقة فيزا اللانهائية](https://www.biat.tn/biat/Fr/carte-visa-infinite_63_347)
+
 
 ## المصادر
 
