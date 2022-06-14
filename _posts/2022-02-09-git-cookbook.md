@@ -3,7 +3,7 @@ layout: ar-post
 lang: ar
 title:  "وصفات لاستعمال Git"
 author: mohamed-ali
-image: assets/images/16.jpg
+image: assets/images/yancy-min-842ofHC6MaI-unsplash.jpg
 categories: [ البرمجة , العربية , git ]
 featured: true
 hidden: false
@@ -45,3 +45,8 @@ git fetch upstream
 git checkout master
 git merge upstream/master
 ```
+
+
+## مصادر:
+
+* الصورة من طرف <a href="https://unsplash.com/@yancymin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yancy Min</a> على <a href="https://unsplash.com/s/photos/git?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
