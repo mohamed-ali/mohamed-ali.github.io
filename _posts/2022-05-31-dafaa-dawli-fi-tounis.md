@@ -90,4 +90,4 @@ published: true
 
 1. الصورة في رأس المقال من موقع [unsplash](https://unsplash.com/photos/em37kS8WJJQ) والشكر موصول لصاحبها.
 2. [موقع المعهد الوطني للاحصاء](http://www.ins.tn/ar)
-
+3. [صفحة تراتيب العُملة والصرف من موقع الديوانة التونسيّة](https://www.douane.gov.tn/ar/devises-et-change_ar/)
