@@ -103,10 +103,8 @@ published: true
 
 <img class="img-fluid" src="/assets/images/استلام الأموال.svg" alt="استلام الأموال">
 
-<img class="img-fluid" src="/assets/images/payoneer_website.png" alt="نظرة في موقع بايونير">
-payoneer_website.png
 أنظر في الصورة في الأسفل، أو زُر موقع بايونير للتعّرف على مُميّزات خدماتهم:
-
+<img class="img-fluid" src="/assets/images/payoneer_website.png" alt="نظرة في موقع بايونير">
 
 #### الدّفع والشراء من الخارج
 
