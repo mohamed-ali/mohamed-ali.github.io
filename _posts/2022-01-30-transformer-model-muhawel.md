@@ -3,7 +3,7 @@ layout: ar-post
 lang: ar
 title:  "مُلخص خوارزميّة المُحوِّل"
 author: mohamed-ali
-image: assets/images/tramsformer-ar-overview-header.svg
+image: assets/images/transformer-article1-header.jpg
 image_thumbnail: assets/images/tramsformer-ar-detailed.png
 categories: [ التعلّم الآلي , العربية , التعلّم العميق , المُحوّل ]
 featured: true
@@ -140,3 +140,4 @@ $$ c_j = \sum_{i=1}^{m} \alpha_{ij} \ x_i $$
 3. [وصلة البقية](https://paperswithcode.com/method/residual-connection)
 4. [التسوية](https://paperswithcode.com/method/batch-normalization) 
 5. [الترجمة الآلية العصبية من خلال التعلم المشترك للمحاذاة والترجمة](https://arxiv.org/abs/1409.0473) 
+6. الصورة في رأس المقال من تصوير <a href="https://unsplash.com/@rwlinder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Robert Linder</a> على موقع <a href="https://unsplash.com/s/photos/transformer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
