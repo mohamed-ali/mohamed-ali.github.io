@@ -1,7 +1,7 @@
 ---
 layout: ar-post
 lang: ar
-title:  "مُلخص خوارزميّة المُحوِّل"
+title:  "مُلخَّص خوارزميّة المُحوِّل"
 author: mohamed-ali
 image: assets/images/transformer-article1-header.jpg
 image_thumbnail: assets/images/tramsformer-ar-detailed.png
