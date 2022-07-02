@@ -3,7 +3,7 @@ layout: ar-post
 lang: ar
 title:  "إيجاد أفكار المشاريع والشّركات الواعدة"
 author: mohamed-ali
-image: assets/images/payment-credit-cards.jpg
+image: assets/images/afkar.jpg
 categories: [ العالم العربي , الشركات النّاشئة , الأعمال الحُرّة ]
 featured: true
 hidden: false
@@ -21,3 +21,7 @@ published: true
 
 
 <img class="img-fluid" src="/assets/images/تحديد أفكار المشاريع النّاجحة.svg" alt="رسم توضيحي لكيفية تحديد أفكار المشاريع النّاجحة">
+
+## المصادر
+1. الصورة في رأس المقال من تصوير <a href="https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Tomasso</a> على موقع <a href="https://unsplash.com/s/photos/ideas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
