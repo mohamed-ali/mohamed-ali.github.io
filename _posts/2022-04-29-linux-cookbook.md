@@ -5,7 +5,7 @@ title:  "وصفات لينُكس"
 author: mohamed-ali
 image: assets/images/linux-cmd.jpg
 categories: [ البرمجة , العربية , لينُكس , Linux ]
-featured: true
+featured: false
 hidden: false
 published: true
 
