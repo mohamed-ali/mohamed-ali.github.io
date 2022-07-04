@@ -1,5 +1,6 @@
 ---
 layout: ar-post
+lang: ar
 title:  "وصفات بانداس: مقتطفات مفيدة وقابلة لإعادة الاستخدام"
 author: mohamed-ali
 image: assets/images/pandas_logo.png
