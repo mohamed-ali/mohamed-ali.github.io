@@ -4,7 +4,7 @@ title:  "Useful mathematic tips"
 author: mohamed-ali
 image: assets/images/geometry-1023846_1280.jpg
 categories: [ methematics, tips ]
-featured: true
+featured: false
 hidden: false
 published: true
 
