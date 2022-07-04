@@ -5,7 +5,7 @@ title:  "وصفات لاستعمال Git"
 author: mohamed-ali
 image: assets/images/yancy-min-842ofHC6MaI-unsplash.jpg
 categories: [ البرمجة , العربية , git ]
-featured: true
+featured: false
 hidden: false
 published: true
 
