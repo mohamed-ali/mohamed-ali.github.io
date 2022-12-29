@@ -130,6 +130,7 @@ $$ c_j = \sum_{i=1}^{m} \alpha_{ij} \ x_i $$
 ### فهرس الألفاظ التقنية ومُرادفاتُها الإنجليزية
 
 - المُحوّل: transformer
+- التعلُّم من التسلسُل إلى التسلسُل: sequence to sequence learning، و تُختصر ب Seq2seq learning.
 - الترميز: encoding
 - فكّ الترميز: decoder
 - موجّه السِّياق: context vector
