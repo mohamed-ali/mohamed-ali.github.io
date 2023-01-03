@@ -40,6 +40,14 @@ echo "مرحبا" > test-pipe
 
 من خاصية الأنابيب المُسمات أنّها تضع البيانات في الذاكرة الحيّة، لذا فعمليّة القراءة والكتابة سريعة بالمقارنة مع الكتابة على القرص. كذلك، تُمحى البيانات مباشرة بعد عمليّة القراءة.
 
+## كيف تجد الملفات المُنتهية برمز تنسيق مُعيّن باستعمال الأمر find ؟
+
+مثلا، نقوم بإيجاد كُلّ الملفات المُنتهية ب `"*.md"` في مُجلّد بالأمر التّالي:
+
+```
+find ./ -type f  -name "*.md"
+```
+
 ## المصادر:
 
 * الصورة في رأس المقال من تصوير <a href="https://unsplash.com/@anagani_saikiran?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sai Kiran Anagani</a> على موقع <a href="https://unsplash.com/s/photos/linux?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
