@@ -1,7 +1,7 @@
 ---
 layout: ar-post
 lang: ar
-title:  "(Linux) وصفات لينُكس"
+title:  "وصفات لينُكس (Linux)"
 author: mohamed-ali
 image: assets/images/linux-cmd.jpg
 categories: [ البرمجة , العربية , لينُكس , Linux ]
