@@ -1,7 +1,7 @@
 ---
 layout: ar-post
 lang: ar
-title:  "وصفات لينُكس"
+title:  "(Linux) وصفات لينُكس"
 author: mohamed-ali
 image: assets/images/linux-cmd.jpg
 categories: [ البرمجة , العربية , لينُكس , Linux ]
@@ -11,7 +11,7 @@ published: true
 
 ---
 
-في التّالي مجموعة من وصفات لينُكس
+في التّالي مجموعة من وصفات لينُكس (Linux) يُمكن الاستعانة بها عند الحاجة.
 
 ## ما هي الأنابيب المُسمات في لينُكس وكيف تُستعمل؟
 
