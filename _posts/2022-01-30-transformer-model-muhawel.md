@@ -77,8 +77,8 @@ $$ Attention(Q, K, V) = softmax(\frac{QK^T}{\sqrt{d_k}})V $$
 
 <div markdown="1" class="callout callout-info">
 
-تذكّر بأن softmax هي كلمة منحوتة من "soft maximum"  
-وهي تعني "الحدّ الأقصى الليّن".
+تذكَّر بأنَّ softmax هي كلمة منحوتة من "soft maximum" وهي تعني "الحدّ الأقصى الليّن".
+والنحت هو بناء كلمة بتركيب أجزاء مأخوذة من كلمات أخرى، و هي ظاهرة لُغويّة موجودة في عدّة لُغات منها العربية.
 
 </div>
 
