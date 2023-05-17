@@ -172,4 +172,5 @@ $$ c_j = \sum_{i=1}^{m} \alpha_{ij} \ x_i $$
 5. [الترجمة الآلية العصبية من خلال التعلم المشترك للمحاذاة والترجمة](https://arxiv.org/abs/1409.0473) 
 6. [دليل مصور لشبكة المحولات العصبية: شرح خطوة بخطوة](https://www.youtube.com/watch?v=4Bdc55j80l8)
 7. [شرح المحولات: فهم النموذج الكامن وراء GPT و BERT و T5](https://www.youtube.com/watch?v=SZorAJ4I-sA)
-8. الصورة في رأس المقال من تصوير <a href="https://unsplash.com/@rwlinder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Robert Linder</a> على موقع <a href="https://unsplash.com/s/photos/transformer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
+8. [دعونا نبني GPT: البرمجة من البداية وبشرح واضح](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+9. الصورة في رأس المقال من تصوير <a href="https://unsplash.com/@rwlinder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Robert Linder</a> على موقع <a href="https://unsplash.com/s/photos/transformer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
