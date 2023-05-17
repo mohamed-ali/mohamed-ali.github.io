@@ -139,7 +139,7 @@ $$ c_j = \sum_{i=1}^{m} \alpha_{ij} \ x_i $$
 * هذا المقال للمختصّين، فهو يفترض مجموعة من المعارف المُسبقة عن مجال التعلّم الآلي أو الرياضيّات. إذا أردت القراءة عن مجال الذكاء الاصطناعي لإثراء الثقافة العامة أنظر في مقالات [أساسيات الذكاء الاصطناعي](https://atozofai.withgoogle.com/intl/ar/).
 </div>
 
-### فهرس الألفاظ التقنية ومُرادفاتُها الإنجليزية
+### المُصطلحات التقنية ومُرادفاتُها الإنجليزية
 
 - المُحوّل: transformer
 - التسلسُلات: sequences
@@ -170,4 +170,6 @@ $$ c_j = \sum_{i=1}^{m} \alpha_{ij} \ x_i $$
 3. [وصلة البقية](https://paperswithcode.com/method/residual-connection)
 4. [التسوية](https://paperswithcode.com/method/batch-normalization) 
 5. [الترجمة الآلية العصبية من خلال التعلم المشترك للمحاذاة والترجمة](https://arxiv.org/abs/1409.0473) 
-6. الصورة في رأس المقال من تصوير <a href="https://unsplash.com/@rwlinder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Robert Linder</a> على موقع <a href="https://unsplash.com/s/photos/transformer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
+6. [دليل مصور لشبكة المحولات العصبية: شرح خطوة بخطوة](https://www.youtube.com/watch?v=4Bdc55j80l8)
+7. [شرح المحولات: فهم النموذج الكامن وراء GPT و BERT و T5](https://www.youtube.com/watch?v=SZorAJ4I-sA)
+8. الصورة في رأس المقال من تصوير <a href="https://unsplash.com/@rwlinder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Robert Linder</a> على موقع <a href="https://unsplash.com/s/photos/transformer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
