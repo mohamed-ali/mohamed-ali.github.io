@@ -7,8 +7,8 @@ image: assets/images/transformer-article2-header.jpg
 image_thumbnail: assets/images/transformer-attention-details.png
 categories: [ التعلّم الآلي , العربية , التعلّم العميق , المُحوّل ]
 featured: false
-hidden: false
-published: false
+hidden: true
+published: true
 
 ---
 
