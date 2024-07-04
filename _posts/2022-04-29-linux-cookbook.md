@@ -57,6 +57,14 @@ find ./ -type f  -name "*.md"
 find ./ -type f  -name "*.md" -exec sed -i 's/<TO CHANGE>/<THE CHANGE>/g' {} +
 ```
 
+## كيفية ضغط مجلد باستخدام tar مع تجاهل بعض المجلدات الفرعية
+
+يوضح مثال الأمر التالي كيفية ضغط مجلد باستخدام tar مع تجاهل بعض المجلدات الفرعية. من خلال الخبرة العملية، لاحظ أن ترتيب المعلمات مهم.
+
+```
+tar --exclude='subfolder1' --exclude='subfolder2' --exclude='subfolder3' -zcvf my-folder.tar.gz my-folder/
+```
+
 ## المصادر:
 
 * الصورة في رأس المقال من تصوير <a href="https://unsplash.com/@anagani_saikiran?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sai Kiran Anagani</a> على موقع <a href="https://unsplash.com/s/photos/linux?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
