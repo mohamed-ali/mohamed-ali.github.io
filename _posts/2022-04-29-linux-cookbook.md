@@ -57,12 +57,19 @@ find ./ -type f  -name "*.md"
 find ./ -type f  -name "*.md" -exec sed -i 's/<TO CHANGE>/<THE CHANGE>/g' {} +
 ```
 
-## كيفية ضغط مجلد باستخدام tar مع تجاهل بعض المجلدات الفرعية
+## كيف تضغط مجلد باستخدام tar مع تجاهل بعض المجلدات الفرعية
 
-يوضح مثال الأمر التالي كيفية ضغط مجلد باستخدام tar مع تجاهل بعض المجلدات الفرعية. من خلال الخبرة العملية، لاحظ أن ترتيب المعلمات مهم.
+في المثال التالي نرى كيفية ضغط مجلد باستخدام tar مع تجاهل بعض المجلدات الفرعية. من خلال الخبرة العملية، لاحظ أن ترتيب المعلمات مهم.
 
 ```
-tar --exclude='subfolder1' --exclude='subfolder2' --exclude='subfolder3' -zcvf my-folder.tar.gz my-folder/
+tar --exclude='subfolder1' --exclude='subfolder2' -zcvf my-folder.tar.gz my-folder/
+```
+
+## كيف تتعرّف على إصدار نظام التشغيل المُستخدم
+
+يُمكنك استخدام الأمر التّالي
+```
+cat /etc/os-release
 ```
 
 ## المصادر:
